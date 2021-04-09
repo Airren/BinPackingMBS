@@ -1,0 +1,6 @@
+,is_exact,not_exact,total
+ best_fit,8.0,152.0,160.0
+ worst_fit,4.0,156.0,160.0
+ almost_worst_fit,0.0,160.0,160.0
+ first_fit,8.0,152.0,160.0
+ next_fit,0.0,160.0,160.0
